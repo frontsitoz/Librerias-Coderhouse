@@ -3,79 +3,79 @@
     "tipo": "Chaqueta",
     "nombre": "Chaqueta Moda-Italy 2022",
     "precio": 130,
-    "foto": "../media/chaqueta Moda Italia.jpg"
+    "foto": "./media/chaqueta Moda Italia.jpg"
 }, {
     "id": 2,
     "tipo": "Chaqueta",
     "nombre": "Chaqueta-Impermeable-v.22",
     "precio": 140,
-    "foto": "../media/chaqueta-impermeable Rab.jpg"
+    "foto": "./media/chaqueta-impermeable Rab.jpg"
 }, {
     "id": 3,
     "tipo": "Chaqueta",
     "nombre": "Chaqueta Now-Felling",
     "precio": 120,
-    "foto": "../media/chaqueta now feeling.jpg"
+    "foto": "./media/chaqueta now feeling.jpg"
 }, {
     "id": 4,
     "tipo": "Chaqueta",
     "nombre": "Chaqueta Helly Hansen Rojo",
     "precio": 90,
-    "foto": "../media/helly hansen- ropa para lluvia.jpg"
+    "foto": "./media/helly hansen- ropa para lluvia.jpg"
 }, {
     "id": 5,
     "tipo": "polera",
     "nombre": "polera buzo scream negro",
     "precio": 80,
-    "foto": "../media/buzo scream.jpg"
+    "foto": "./media/buzo scream.jpg"
 }, {
     "id": 6,
     "tipo": "pantalon",
     "nombre": "jean-supermoda-mujer",
     "precio": 150,
-    "foto": "../media/jean-moda-mujer2022.jpg"
+    "foto": "./media/jean-moda-mujer2022.jpg"
 }, {
     "id": 7,
     "tipo": "polo",
     "nombre": "camisa casual2022",
     "precio": 90,
-    "foto": "../media/camisa casual masculina.jpg"
+    "foto": "./media/camisa casual masculina.jpg"
 }, {
     "id": 8,
     "tipo": "polo",
     "nombre": "polo-basic-mujer22",
     "precio": 120,
-    "foto": "../media/polo-mujer.jpg"
+    "foto": "./media/polo-mujer.jpg"
 }, {
     "id": 9,
     "tipo": "polo",
     "nombre": "polo-peru-unique",
     "precio": 200,
-    "foto": "../media/polo-peru.jpg"
+    "foto": "./media/polo-peru.jpg"
 }, {
     "id": 10,
     "tipo": "Pantalon",
     "nombre": "Jogger clasico negro",
     "precio": 150,
-    "foto": "../media/JOGGER CARGO NEGRO2.jpg"
+    "foto": "./media/JOGGER CARGO NEGRO2.jpg"
 }, {
     "id": 11,
     "tipo": "polo",
     "nombre": "mangalarga negro",
     "precio": 210,
-    "foto": "../media/buzo negro oversized.jpg"
+    "foto": "./media/buzo negro oversized.jpg"
 }, {
     "id": 12,
     "tipo": "polo",
     "nombre": "polo de superheroe flash 2022",
     "precio": 120,
-    "foto": "../media/polo-de-flash.jpg"
+    "foto": "./media/polo-de-flash.jpg"
 }, {
     "id": 13,
     "tipo": "pantalon",
     "nombre": "Jogger clasico gris",
     "precio": 100,
-    "foto": "../media/JOOGER CLASICO.jpg"
+    "foto": "./media/JOOGER CLASICO.jpg"
 }, {
     "id": 14,
     "tipo": "Biker",
@@ -87,23 +87,23 @@
     "tipo": "short",
     "nombre": "short running mujer",
     "precio": 90,
-    "foto": "../media/short-running-mujer.jpg"
+    "foto": "./media/short-running-mujer.jpg"
 }, {
     "id": 16,
     "tipo": "polo",
     "nombre": "polo tommy hilfiger mujer",
     "precio": 140,
-    "foto": "../media/polo-tommyhilfiger-mujer.png"
+    "foto": "./media/polo-tommyhilfiger-mujer.png"
 }, {
     "id": 17,
     "tipo": "polo",
     "nombre": "polo running training mujer",
     "precio": 80,
-    "foto": "../media/polo-running-training-mujer.jpg"
+    "foto": "./media/polo-running-training-mujer.jpg"
 }, {
     "id": 18,
     "tipo": "polo",
     "nombre": "polo running mangalarga h",
     "precio": 90,
-    "foto": "../media/polo-running-mangalarga-hombre.jpg"
+    "foto": "./media/polo-running-mangalarga-hombre.jpg"
 }]

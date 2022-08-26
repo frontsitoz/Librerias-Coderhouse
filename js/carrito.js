@@ -1,6 +1,6 @@
-//inicializo la variable carrito con una funcion para que detecte si existen valores previos en el storage
+//Aquí inicializo la variable carrito con una funcion para que detecte si existen valores previos en el storage
 let carrito = cargarCarrito();
-//inicializo la variable productosJSON para poder trabajar con la funcion obtenerJSON
+//Aquí inicializo la variable productosJSON para poder trabajar con la funcion obtenerJSON
 let productosJSON = [];
 //cargo la variable cantidad para que no se pierdan los datos almacenados al refrescar la ventana
 let cantidadTotalCompra = carrito.length;
